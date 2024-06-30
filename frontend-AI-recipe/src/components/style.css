@@ -1,0 +1,16 @@
+.image-container{
+    position: relative;
+    width: fit-content;
+}
+
+
+.overlay-text{
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    color: aqua;
+    font-size: 60px;
+    font-weight: 600;
+}
+
